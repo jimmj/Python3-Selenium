@@ -1,6 +1,6 @@
 import os
 import unittest
-import HTMLTestRunnerCN
+from Common import HTMLTestRunnerCN
 
 import getcwd
 from TestSuites.testHome import TestHome
